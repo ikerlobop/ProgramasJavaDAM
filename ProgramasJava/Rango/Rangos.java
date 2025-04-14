@@ -1,4 +1,4 @@
-package Rangos;
+package Rango;
 
 public class Rangos {
 
